@@ -1,4 +1,4 @@
-## vsftpd FTP service for Docker with virtual hosts & PAM authentication
+## vsftpd FTP service for Docker with virtual hosts & SQL authentication
 
 ### General
 
