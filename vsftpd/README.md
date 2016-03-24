@@ -15,7 +15,7 @@ and `crypt_md5` for Postgres. Use `PASSWORD()` function for MySQL and `crypt(pas
 - **DB_PASS**: database password
 - **DB_HOST**: database host or IP address
 - **DB_NAME**: name of the database
-- **FTP_ADMINS** (*optional*): list of admins (users able to see all other users' folders)
+- **FTP_ADMINS** (*optional*): colon separated list of admins (users able to see all other users' folders)
 
 ### Volumes & ports
 
