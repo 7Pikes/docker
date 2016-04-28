@@ -1,0 +1,5 @@
+
+group :docker, :optional => true do
+  gem 'puma'
+  gem 'rails_12factor'
+end
